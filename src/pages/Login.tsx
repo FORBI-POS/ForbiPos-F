@@ -82,7 +82,8 @@ export default function Login() {
         <div className="flex items-center justify-center min-h-screen bg-white">
             <div className="absolute top-8 text-center">
                 <h1 className="text-3xl font-bold text-blue-800 tracking-wide">FORBI - POS</h1>
-                <p className="text-sm text-gray-500 mt-1">Secure Login Portal</p>
+                <p className="text-sm text-gray-500 mt-1">username : admin</p>
+                <p className="text-sm text-gray-500 mt-1">password : admin</p>
             </div>
 
             <Card className="w-[350px] shadow-lg border border-blue-800/20 rounded-xl">
